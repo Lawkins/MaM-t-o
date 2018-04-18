@@ -4,7 +4,7 @@
     <string name="app_name">Ma méteo</string>
     <string name="change_city">Changer de ville</string>
 
-    <!-- Put your own APP ID here -->
+ 
     <string name="open_weather_maps_app_id">6f2febacad02654022979099ffe407da</string>
 
     <string name="weather_sunny">&#xf00d;</string>
